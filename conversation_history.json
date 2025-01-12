@@ -18,4 +18,24 @@
     "user": "Do I need to provide my Email Address in Personal Data?",
     "bot": "Based on the provided text, the answer is **yes**.  The policy explicitly states that an email address is included in the categories of personally identifiable information (\"Personal Data\") that may be requested.\n"
 }
+,
+{
+    "user": "What is Personal Data?",
+    "bot": "Personal Data, as used in our Service's privacy policy, refers to information that can be used to contact or identify you.  This includes, but is not limited to, your email address, first and last name, phone number, address (including state, province, ZIP/Postal code, and city), and cookies and usage data.\n"
+}
+,
+{
+    "user": "Explain further about this?",
+    "bot": "Okay, let's clarify what \"Personal Data\" encompasses within our Service's privacy policy, expanding on the initial definition.\n\nOur definition of Personal Data is broad and aims to cover any information that could reasonably be used to directly or indirectly identify, contact, or locate a specific individual.  The examples provided \u2013 email address, name, phone number, and address \u2013 are straightforward identifiers.  Let's break down the less obvious components:\n\n* **Cookies and Usage Data:** This refers to information collected automatically through your interaction with our service.  \n\n    * **Cookies:** These are small text files placed on your device by our website. They remember your preferences and help us improve your experience.  However, they can also contain information that, when combined with other data, could potentially identify you.  For example, a cookie might track your browsing activity on our site, and if that activity is combined with your name and email address (already considered personal data), a more complete picture of your online behavior is created.\n\n    * **Usage Data:** This is a broader category encompassing information about how you use our service. This could include:\n        * **IP Address:** Your computer's unique internet protocol address, which can sometimes be linked to your geographic location.  While not directly identifying you, it can be used in conjunction with other information to create a profile.\n        * **Browser type and version:** Information about the software you use to access our service.\n        * **Pages visited on our site:** A record of the specific pages you viewed and how long you spent on each.\n        * **Operating system:** Information about the software running on your computer or device.\n        * **Device information:** Details about the type of device you're using (e.g., smartphone, tablet, computer) and its identifiers.\n        * **Timestamp data:** The date and time of your activity on our service.\n\nIt's important to note that while some individual pieces of usage data might not be personally identifying on their own, when combined, they can contribute to a profile that could indirectly identify you or reveal sensitive information about your behavior.\n\nIn summary, our definition of Personal Data goes beyond simple contact information.  It also includes automatically collected data that, either alone or in combination with other information, could be used to identify you.  Our commitment is to be transparent about what data we collect and how we use it, as detailed further in the rest of our privacy policy.\n"
+}
+,
+{
+    "user": "What is policy?",
+    "bot": "Our privacy policy outlines how we collect, use, and protect your personal information when you interact with our company.  It details your rights regarding your data and our responsibilities in handling it.\n\nIf you want to get further information about What is our privacy policy?, please visit our website https://www.presight.io/privacy-policy.html\n"
+}
+,
+{
+    "user": "Do I need to provide my Email Address in Personal Data?",
+    "bot": "Based on the provided text, the answer is:  Yes, an email address is listed as an example of Personal Data that may be requested when using the service.\n"
+}
 ]
